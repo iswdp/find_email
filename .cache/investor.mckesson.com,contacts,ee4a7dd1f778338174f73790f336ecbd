@@ -1,0 +1,701 @@
+status: 200
+content-location: http://investor.mckesson.com/contacts
+server: Apache
+age: 7801
+content-length: 47245
+x-varnish: 1232435934 1232280905
+expires: Sun, 11 Mar 1984 12:00:00 GMT
+date: Wed, 14 Sep 2016 19:39:41 GMT
+x-frame-options: SAMEORIGIN
+accept-ranges: bytes
+-content-encoding: gzip
+x-ua-compatible: IE=edge
+vary: Cookie,Accept-Encoding
+x-cache: HIT
+cache-control: public, max-age=604800
+last-modified: Wed, 14 Sep 2016 17:29:40 +0000
+content-type: text/html; charset=utf-8
+via: 1.1 varnish
+etag: "1473874180"
+connection: keep-alive
+-varied-accept-encoding: gzip, deflate
+
+<!DOCTYPE html>
+<html lang="en">
+<head id="ctl00_ctl00_Head1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0" />
+
+    <meta name="Blog Pingback" content="No" />
+    <!-- 
+This site contains functionality licensed from Business Wire (www.businesswire.com). Business Wire reserves all rights associated with this site and any of its licensed functionality. 
+
+--><link rel="apple-touch-icon" href="/sites/all/themes/custom/hq_base/images/touch-icon-default.png"> <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<script type="text/javascript">
+  /* <![CDATA[ */
+   if(top.frames.length > 0) {
+     try {
+       var domain = top.document.domain;
+     }
+     catch (e) {
+       top.location.href=self.location;
+     }
+   }
+  /* ]]> */
+</script>
+
+<link rel="shortcut icon" href="http://investor.mckesson.com/sites/mckesson.investorhq.businesswire.com/files/mckesson_2016_investorhq_three_favicon.ico" type="image/x-icon" />
+	<!-- <link rel="stylesheet" type="text/css" href="//app.quotemedia.com/css/tools.css"> -->
+	<style>.qmjsleft{ display: none;}</style>
+	<style type="text/css">
+
+		#qmContainer {
+			margin: 0 auto;
+			width: 960px;
+		}
+		.qmHeader {
+			color:#226db3;
+			font: bold 24px Arial,Helvetica,sans-serif;
+			padding-top: 12px;
+			border-bottom: 1px solid #4FA600;
+			padding-bottom: 10px;
+		}
+		.qmSubHeader {
+			color:#4fa600;
+			font: bold 16px Arial,Helvetica,sans-serif;
+			padding-top: 20px;
+			padding-bottom: 20px;
+			text-align: center;
+		}
+		.qmContent {
+			font: 12px Arial,Helvetica,sans-serif;
+			margin: 0 auto;
+			padding-bottom: 20px;
+		}
+		.qmMiniFundamentals {
+			width: 380px;
+			text-align: left;
+		}
+		.qmMiniTabsQuoteRight {
+			text-align: right;
+			font-weight: bold;
+		}
+	</style>
+
+	<style>
+		.qmmt_main
+		{
+		    background-color: #ffffff;
+		    border: 1px solid #d4e5c3;
+		}
+		.qmMiniChartsQuote .qmmt_main
+		{
+		    background-color: #ffffff;
+		    border: none;
+		}
+		.qmMiniChartsQuote
+		{	
+		    border: 1px solid #d4e5c3;
+		}			
+		.qmmt_text
+		{
+		    font: 12px Arial,Helvetica,sans-serif;
+
+			padding-top: 2px;
+			padding-bottom: 2px;
+		}
+		.qmmt_text_up
+		{
+		    font: 12px Arial,Helvetica,sans-serif;
+		    color: #009900;
+		}
+		.qmmt_text_down
+		{
+		    font: 12px Arial,Helvetica,sans-serif;
+		    color: #E60202;
+		}
+		.qmmt_tab
+		{
+			background-color: #e7f0df;
+			color: #226db3;
+			font: normal 11px Arial,Helvetica,sans-serif;
+			border-color: #ffffff;			
+		}
+		.qmmt_tabactive
+		{
+			background-color: #ffffff;
+			color: #4fa600;
+			border-color: #ffffff;
+			font: bold 11px Arial,Helvetica,sans-serif;			
+		}
+		.qmmt_header_text .qmmt_text_down, .qmmt_header_text .qmmt_text, .qmmt_header_text .qmmt_text_up {
+			font: bold 14px Arial,Helvetica,sans-serif;	
+			padding-right: 4px;		
+		}
+		.qmmt_input
+		{
+		    font: 12px Arial,Helvetica,sans-serif;
+		}
+		.qmmt_cycle
+		{
+		    background-color: #f6f7f5;
+		}
+		.qmmt_sub_header_bar
+		{
+		    background-color: #ffffff;
+		}		
+		.qmmt_header_text
+		{
+		    font: bold 14px Arial,Helvetica,sans-serif;
+		    color: #666666;
+		}
+		.qmmt_header_bar
+		{
+		    background-color: #d4e5c3;
+		    border-bottom-color: #ffffff;
+			border: 1px solid #d4e5c3;
+		}
+		.qmmt_realtime_text
+		{
+	    	font: 12px Arial, Helvetica, sans-serif;
+			color: #019F01;
+			font-weight: bold;
+			font-style: italic;
+		}
+		.qmmt_nonrt_text
+		{
+		    font: 9px Tahoma, Arial, Helvetica, sans-serif;
+		    color: #666666;
+		    font-weight: bold;
+		    font-style: italic;
+		}	
+		a.qmmt {
+			font: 12px Arial,Helvetica,sans-serif;
+		    color: #5E739B;
+			text-decoration: underline;			
+		}
+		a:visited.qmmt {
+			font: 12px Arial,Helvetica,sans-serif;
+		    color: #5E739B;
+			text-decoration: underline;			
+		}
+		a:hover.qmmt {
+			font: 12px Arial,Helvetica,sans-serif;
+		    color: #E60202;
+			text-decoration: underline;
+		}
+		a.qmmt_header_text {
+			font: 13px Arial,Helvetica,sans-serif;
+		    color: #5E739B;
+			text-decoration: underline;			
+		}
+		a:visited.qmmt_header_text {
+			font: 13px Arial,Helvetica,sans-serif;
+		    color: #5E739B;
+			text-decoration: underline;			
+		}
+		a:hover.qmmt_header_text {
+			font: 13px Arial,Helvetica,sans-serif;
+		    color: #5E739B;
+			text-decoration: underline;
+		}
+	</style>
+
+<style type="text/css">
+#qmStockQuote  { width: 270px; }
+#qmStockQuote td  {font: 12px  arial;  color: #000000; padding:3px; padding-left:0 !important;border-bottom: 1px solid #ccc; }
+#qmStockQuote .qmmt_text		{ text-align:left;  padding:2px;}
+#qmStockQuote .qmmt_text_up		{  text-align:left;  padding:2px;}
+#qmStockQuote .qmmt_text_down		{ text-align:left;  padding:2px;}
+
+
+.colOne 	{ font: 12px  arial;width:38%; border-right: 1px solid #ccc;   }
+
+.arrow img  { padding-top: 5px; padding-right: 5px;    }
+
+.arrow  .qmmt_text		{ text-align:left;   float:right; }
+.arrow  .qmmt_text_up		{  text-align:left;  float:right; }
+.arrow  .qmmt_text_down		{ text-align:left;     float:right; }
+
+.qmjsright { font: 12px  arial; text-align:left; } 
+.quoteTime .qmjsright { color: #005A8C !important;  }
+.quoteTime a:hover {color:#000000 !important;text-decoration:underline !Important;}
+.dataQuoteTime .qmjsright { margin-left:60px; margin-top:-15px; }
+
+
+</style>
+	
+<meta name="description" content="Health Care Information Technology Medical-Surgical Supplies and Pharmaceutical Distributor: McKesson official investor center. Financial news and information, events and presentations." />
+<meta name="keywords" content="Mckesson,Investors,McKesson Investor Center,health management,news,investor,investor center,media,press" />
+<link rel="canonical" href="http://investor.mckesson.com/contacts" />
+<meta name="revisit-after" content="1 day" />
+    <title>Stockholder Services  | McKesson Investor Relations</title>
+      <!-- client style -->
+    <link rel="stylesheet" href="/sites/mckesson.investorhq.businesswire.com/themes/mckesson_2016_investorhq_three/client_files/css/min/mckesson.min.css" />
+    <link rel="stylesheet" href="/sites/mckesson.investorhq.businesswire.com/themes/mckesson_2016_investorhq_three/client_files/css/author-style.css" />
+    <link rel="Stylesheet" href="/sites/mckesson.investorhq.businesswire.com/themes/mckesson_2016_investorhq_three/client_files/css/min/tab-system.min.css" />
+    <link rel="stylesheet" href="/sites/mckesson.investorhq.businesswire.com/themes/mckesson_2016_investorhq_three/client_files/css/min/select2.min.css" />
+    <link rel="Stylesheet" href="/sites/mckesson.investorhq.businesswire.com/themes/mckesson_2016_investorhq_three/client_files/css/min/customsearch.css" />
+    
+    <link type="text/css" rel="stylesheet" media="all" href="http://investor.mckesson.com/sites/mckesson.investorhq.businesswire.com/files/css/css_8db091d39a569acdc1876422f7d0c531.css" />
+
+
+    <!-- client scripts -->
+    <script src="/sites/mckesson.investorhq.businesswire.com/themes/mckesson_2016_investorhq_three/client_files/js/libs/min/modernizr.min.js" type="text/javascript"></script>
+    <script src="/sites/mckesson.investorhq.businesswire.com/themes/mckesson_2016_investorhq_three/client_files/js/libs/conc/libs.min.js" type="text/javascript"></script>
+    
+     <!-- stock information -->
+
+    <script type="text/javascript">
+    var mckessonjq = jQuery.noConflict( true );
+    </script>
+  
+  <script type="text/javascript" src="http://investor.mckesson.com/sites/mckesson.investorhq.businesswire.com/files/js/js_da6f9e35fcb5d0ced11310e772c52250.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","googleAnalyticsReportsAjaxUrl":"\/google-analytics-reports\/ajax","lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)sites\/mckesson.investorhq.businesswire.com\/files","default_image":"\/sites\/all\/modules\/contrib\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":true,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":1,"disable_resize":false,"disable_zoom":false,"force_show_nav":false,"show_caption":true,"loop_items":false,"node_link_text":"View Image Details","node_link_target":false,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\u003e\u003ckbd\u003ex\u003c\/kbd\u003e\u003c\/a\u003e to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"scrolling":"no","enable_video":1,"flvPlayer":"\/flvplayer.swf","flvFlashvars":"autoplay=1"},"nice_menus_options":{"delay":800,"speed":1},"bw_googleanalytics":{"trackOutbound":1,"trackOutgoing":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip","trackDownloadTypes":{"default":"Document Download","audio":"Multimedia Download","image":"Multimedia Download","logo":"Multimedia Download","video":"Multimedia Download","press_release":"Multimedia Download"},"baseFilePath":"http:\/\/investor.mckesson.com\/sites\/mckesson.investorhq.businesswire.com\/files\/","trackUrlFragments":0},"CToolsUrlIsAjaxTrusted":{"\/contacts":true}});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+AudioPlayer.setup("/sites/all/modules/contrib/mp3player/mp3player/player.swf", {width:290});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-23747348-44", {"cookieDomain":"auto"});ga("create", "UA-33756829-3",{"name": "rollup_1","cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");ga("rollup_1.send","pageview");
+//--><!]]>
+</script>
+
+    
+
+  
+    
+
+  <script type="text/javascript"> </script>
+</head>
+<body class="not-front not-logged-in page-contacts one-sidebar sidebar-right i18n-en">
+  <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WCSN8P" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+  <script>
+    (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-WCSN8P');
+    </script>
+    <!-- End Google Tag Manager -->
+    <!-- Bing Verification Code -->
+    <meta name="msvalidate.01" content="247C80B38EBC2333EBB78DDBE3A8E514" />
+    <!-- End Bing Verification Code -->
+
+    <!-- User Navigation -->
+          <div id="bw-user-nav"><div class="item-list"><ul class="bw-user-links menu expanded"><li class="first last"><a href="/user/login" class="bw-user-nav-login">Login</a></li>
+</ul></div></div>
+        <!-- /Begin opening site chrome -->
+        <div id="st-container" class="st-container">
+            <div class="st-pusher">
+                <div class="st-content">
+                    <div class="st-content-inner">
+                        <div class="main clearfix">
+                          <NOINDEX>
+                           <header id="header-menu" class="header">
+                              <div class="wrapper">
+                                 <div id="navbar" class="navbar col-sm-12" role="navigation">
+                                    <div class="navbar-header"><a class="brand" href="http://www.mckesson.com/">McKesson</a></div>
+                                    <div class="navbar-collapse collapse shift-right">
+                                       <div id="ctl00_ctl00_Header1_one">
+                                          <ul class="nav">
+                                             <li><a href='http://www.mckesson.com/about-mckesson/who-we-are/'>About McKesson</a></li>
+                                             <li><a href='http://investor.mckesson.com/'>Investors</a></li>
+                                             <li><a href='https://careers.mckesson.com/'>Careers</a></li>
+                                             <li><a href='http://www.mckesson.com/contact-us/overview/'>Contact Us</a></li>
+                                             <li><a href='http://www.mckesson.com/customer-login/customer-login/'>Customer Login</a></li>
+                                             <li id="st-trigger-effects" class="mbl">
+                                                <span class="close-menu"></span>
+                                                <button data-effect="st-effect-3">Push</button>
+                                             </li>
+                                          </ul>
+                                       </div>
+                                    </div>
+                                 </div>
+                                 <div id="search-bar" class="search">
+                                    <div id="functions" class="">
+                                       <div id="browse-results" class="results-wrapper">
+                                          <div class="results">
+                                             <div class="results-inner">
+                                                <ul class="list">
+                                                   <li class="has-submenu" id="Providers">
+                                                      <span class="sm-trigger"><strong>Providers</strong></span>
+                                                      <div class="sub-menu">
+                                                         <div class="extra">
+                                                            <h4><a href="http://www.mckesson.com/providers/">Providers - Home</a></h4>
+                                                            <ul></ul>
+                                                         </div>
+                                                         <div class="extra">
+                                                            <h4>Distribution</h4>
+                                                            <ul>
+                                                               <li><a href="http://www.mckesson.com/providers/pharmaceutical-ordering-and-packaging/">Pharmaceutical Ordering and Packaging</a></li>
+                                                               <li><a href="http://www.mckesson.com/providers/medical-supplies-and-equipment/">Medical Supplies and Equipment</a></li>
+                                                            </ul>
+                                                         </div>
+                                                         <div class="extra">
+                                                            <h4>Technology and Services</h4>
+                                                            <ul>
+                                                               <li><a href="http://www.mckesson.com/providers/growth-and-expansion/">Growth and Expansion</a></li>
+                                                               <li><a href="http://www.mckesson.com/providers/operational-efficiency/">Operational Efficiency</a></li>
+                                                               <li><a href="http://www.mckesson.com/providers/patient-and-clinical-care/">Patient and Clinical Care</a></li>
+                                                               <li><a href="http://www.mckesson.com/providers/regulatory-and-risk-management/">Regulatory and Risk Management</a></li>
+                                                               <li><a href="http://www.mckesson.com/providers/reimbursement-and-revenue-cycle-management/">Reimbursement and Revenue Cycle Management</a></li>
+                                                            </ul>
+                                                         </div>
+                                                      </div>
+                                                   <li class="has-submenu" id="Pharmacies">
+                                                      <span class="sm-trigger"><strong>Pharmacies</strong></span>
+                                                      <div class="sub-menu">
+                                                         <div class="extra">
+                                                            <h4><a href="http://www.mckesson.com/pharmacies/">Pharmacies - Home</a></h4>
+                                                            <ul></ul>
+                                                         </div>
+                                                         <div class="extra">
+                                                            <h4>Distribution</h4>
+                                                            <ul>
+                                                               <li><a href="http://www.mckesson.com/pharmacies/pharmaceutical-ordering-and-packaging/">Pharmaceutical Ordering and Packaging</a></li>
+                                                               <li><a href="http://www.mckesson.com/pharmacies/supplies-equipment-and-merchandise/">Supplies, Equipment and Merchandise</a></li>
+                                                            </ul>
+                                                         </div>
+                                                         <div class="extra">
+                                                            <h4>Expertise and Technology</h4>
+                                                            <ul>
+                                                               <li><a href="http://www.mckesson.com/pharmacies/financial-performance/">Financial Performance</a></li>
+                                                               <li><a href="http://www.mckesson.com/pharmacies/growth-and-expansion/">Growth and Expansion</a></li>
+                                                               <li><a href="http://www.mckesson.com/pharmacies/medication-adherence-and-clinical-performance/">Medication Adherence and Clinical Performance</a></li>
+                                                               <li><a href="http://www.mckesson.com/pharmacies/operational-efficiency/">Operational Efficiency</a></li>
+                                                            </ul>
+                                                         </div>
+                                                      </div>
+                                                   <li class="has-submenu" id="Health Plans">
+                                                      <span class="sm-trigger"><strong>Health Plans</strong></span>
+                                                      <div class="sub-menu">
+                                                         <div class="extra">
+                                                            <h4><a href="http://www.mckesson.com/health-plans/">Health Plans - Home</a></h4>
+                                                            <ul>
+                                                               <li><a href="http://www.mckesson.com/health-plans/consumer-engagement/">Consumer Engagement</a></li>
+                                                               <li><a href="http://www.mckesson.com/health-plans/health-care-reimbursement/">Health Care Reimbursement</a></li>
+                                                               <li><a href="http://www.mckesson.com/health-plans/medical-cost-and-care-quality/">Medical Cost and Care Quality</a></li>
+                                                               <li><a href="http://www.mckesson.com/health-plans/operational-efficiency/">Operational Efficiency</a></li>
+                                                               <li><a href="http://www.mckesson.com/health-plans/population-health/">Population Health</a></li>
+                                                               <li><a href="http://www.mckesson.com/health-plans/provider-engagement/">Provider Engagement</a></li>
+                                                            </ul>
+                                                         </div>
+                                                      </div>
+                                                   <li class="has-submenu" id="Manufacturers">
+                                                      <span class="sm-trigger"><strong>Manufacturers</strong></span>
+                                                      <div class="sub-menu">
+                                                         <div class="extra">
+                                                            <h4><a href="http://www.mckesson.com/pharmaceutical-manufacturers/">Manufacturers - Home</a></h4>
+                                                            <ul>
+                                                               <li><a href="http://www.mckesson.com/manufacturers/pharmaceutical-distribution/">Pharmaceutical Distribution</a></li>
+                                                               <li><a href="http://www.mckesson.com/manufacturers/third-party-logistics/">Third Party Logistics</a></li>
+                                                               <li><a href="http://www.mckesson.com/manufacturers/pharmaceutical-packaging/">Pharmaceutical Packaging</a></li>
+                                                               <li><a href="http://www.mckesson.com/manufacturers/group-purchasing-organization-services/">Group Purchasing Organization Services</a></li>
+                                                               <li><a href="http://www.mckesson.com/manufacturers/clinical-trial-services/">Clinical Trial Services</a></li>
+                                                               <li><a href="http://www.mckesson.com/manufacturers/health-care-informatics/">Health Care Informatics</a></li>
+                                                               <li><a href="http://www.mckesson.com/manufacturers/commercial-services/">Commercial Services</a></li>
+                                                            </ul>
+                                                         </div>
+                                                      </div>
+                                                </ul>
+                                                <div class="extra">
+                                                   <div class="item first">
+                                                      <h4><a href="http://www.mckesson.com/blog/blog-archive/">Blogs</a></h4>
+                                                      <ul></ul>
+                                                   </div>
+                                                   <div class="item last">
+                                                      <h4><a href="http://www.mckesson.com/product-listing/">A-Z Product Listing</a></h4>
+                                                      <ul></ul>
+                                                   </div>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                       <div id="browse">
+                                          <div id="trigger" class="trigger">
+                                             <span id="browse-text" class="browse">
+                                             <span id="ctl00_ctl00_Header1_lblBrowseText">Browse By Category</span></span>
+                                             <span id="hide-text" class="hide">
+                                             <span id="ctl00_ctl00_Header1_lblHideText">Hide Categories</span></span> <span id="arrow" class="arrow"></span>
+                                          </div>
+                                       </div>
+                                       <form method="post" id="aspnetForm"> 
+                                          <div id="search">
+                                             <span id="clear-search" class="clear-search"></span>
+                                             <button id="search-button" class="button" type="button">Search</button>
+                                             <input id="search-field" type="text" name="search" placeholder="What can we help you find?" value="" autocapitalize="off" autocomplete="off" >
+                                          </div>
+                                       </form>
+                                    </div>
+                                 </div>
+                              </div>
+                           </header>
+                        </NOINDEX>
+
+                        <section class="section breadcrumb no-padding">
+                            <div class="wrapper">
+                                <div class="crumbs col-sm-8">
+                                    <ul><li class="crumb first"><a href="http://www.mckesson.com/default.aspx">Home</a></li> <li class="crumb last"><a href="/">Investors</a></li></ul>                                    
+                                </div>
+                                <div class="col-sm-4" id="qmStock-wrapper">
+                                  <p id="bwqm213">Loading...</p>
+
+                                </div>
+                        </section>
+                        
+                                                <section class="section">
+                          <div class="wrapper">
+                            <div class="section-intro">
+                              <h1 class="title">
+                                Stockholder Services                                 
+                              </h1>
+                            </div>
+                          </div>
+                        </section>
+                        
+                     
+                      
+                                            
+                      <!-- id="bw-panel-with-left-sidebar" class="bw-panel-layout" -->
+
+<section class="section tab-system">
+  <div class="wrapper">
+        <div class="tab-container">
+      <div class="tabs">
+      	<div class="panel-pane pane-block pane-menu-menu-stockholder-services" >
+        
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="leaf first"><a href="/information-request" title="" class=" bw-menu-link ">Information Request Form</a></li>
+<li class="leaf"><a href="/faqs" title="" class=" bw-menu-link ">Investor FAQs</a></li>
+<li class="leaf last active-trail"><a href="/contacts" title="" class=" bw-menu-link bw-active-menu-item  active">Stockholder and IR Contacts</a></li>
+</ul>  </div>
+
+  
+  </div>
+    	</div>
+        <div class="content">
+        <div class="inner">
+          <div class="open-html">
+            <div class="panel-pane pane-custom pane-1" >
+        <h2 class="pane-title">
+      Stockholder and IR Contacts          </h2>
+      
+  
+  <div class="pane-content">
+    <p><strong>Investor Relations<br /><br /></strong>For investment community questions and requests for information on upcoming meetings or <a href="/events" target="_parent">conference calls</a>, <a href="/presentations" target="_parent">recent presentations</a>, <a href="/financial-information" target="_parent">financial information</a>, and similar matters, please contact:</p><table cellspacing="0"><tbody><tr><td style="padding-right: 20px;">Investor Relations<br /> (800) 826-9360<br /> press 1 to leave a message<br /><a href="mailto:investors@mckesson.com">investors@mckesson.com</a></td><td style="padding-right: 20px;">Craig Mercer<br /> SVP, Investor Relations <br /> (415) 983-8391<br /><a href="mailto:craig.mercer@mckesson.com">craig.mercer@mckesson.com</a></td><td>&nbsp;</td></tr></tbody></table><p>&nbsp;</p><p><strong><span class="blueheader">Corporate Secretary</span><br /><br /></strong>For general shareholder questions please contact: <br /> Corporate Secretary’s Office<br /> (800) 826-9360 and press 2 to leave a message<br /><a href="mailto:corporatesecretary@mckesson.com">corporatesecretary@mckesson.com</a><br /><br /><br /><strong>Transfer Agent </strong></p><table><tbody><tr><td>Wells Fargo Shareowner Services or</td><td>Wells Fargo Shareowner Services</td></tr><tr><td>1110 Centre Pointe Curve, Suite 101</td><td>P. O. Box 64874</td></tr><tr><td>Mendota Heights, MN 55120-4100</td><td>St. Paul, MN 55164-0874</td></tr><tr><td>US and Canada (866) 614-9635</td></tr><tr><td>International +1 (651) -450-4064</td></tr><tr><td>For the hearing impaired (651) 450-4144</td></tr><tr><td>Interactive Voice Response System<br /> available 24 hours a day (800) 401-1957</td></tr><tr><td><a href="https://www.wellsfargo.com/com/investments/shareowner-services/" target="_parent">https://www.wellsfargo.com/com/investments/shareowner-services/</a></td></tr></tbody></table><p>&nbsp;</p><p>If you have questions on your tax documents or need a replacement document issued prior to February 10, 2011, please contact our former transfer agent, BNY Mellon (now Computershare) at 800-522-6645.</p><p><strong>Questions regarding PSS World Medical stock should be directed to American Stock Transfer &amp; Trust Company at (877) 248-6417 (U.S. and Canada) or (718) 921-8317 (International).</strong></p><p><strong>Questions regarding US Oncology stock should be directed to BNY Mellon (now Computershare) at 1 (800) 777-3674.</strong></p>  </div>
+
+  
+  </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>                        
+                                                          
+                     
+                    
+                  <!--Footer -->                                
+                        <!--googleoff: index-->
+                        <NOINDEX>
+                           <footer>
+                              <div class="footer-nav four-columns">
+                                 <div class="wrapper">
+                                    <section class='footer-section first odd'>
+                                       <nav>
+                                          <ul>
+                                             <li class='link odd first'><span><a href='http://www.mckesson.com/about-mckesson/who-we-are/'>About McKesson</a></span></li>
+                                             <li class='link even'><a href='http://www.mckesson.com/about-mckesson/who-we-are/'>Who We Are</a></li>
+                                             <li class='link odd'><a href='http://www.mckesson.com/about-mckesson/mckesson-values/'>Our Values</a></li>
+                                             <li class='link even'><a href='http://www.mckesson.com/contact-us/locations/'>Locations</a></li>
+                                             <li class='link odd'><a href='http://www.mckesson.com/about-mckesson/corporate-citizenship/leader-in-corporate-citizenship/'>Corporate Citizenship</a></li>
+                                             <li class='link even'><a href='http://www.mckesson.com/about-mckesson/newsroom/'>Newsroom</a></li>
+                                             <li class='link odd'><a href='http://www.mckesson.com/about-mckesson/events/event-calendar/'>Event Calendar</a></li>
+                                             <li class='link even'><a href='http://www.mckesson.com/contact-us/connect-with-mckesson/'>Connect With McKesson</a></li>
+                                          </ul>
+                                       </nav>
+                                       <nav>
+                                          <ul>
+                                             <li class='link odd first'><span><a href='http://www.mckesson.com/blog/'>Blog</a></span></li>
+                                          </ul>
+                                       </nav>
+                                       <nav>
+                                          <ul>
+                                             <li class='link odd first'><span><a href='http://careers.mckesson.com/'>Careers</a></span></li>
+                                             <li class='link even'><a href='https://jobs.mckesson.com/'>Find A Job</a></li>
+                                             <li class='link odd last'><a href='https://careers.mckesson.com/university/'>Campus Recruiting</a></li>
+                                          </ul>
+                                       </nav>
+                                    </section>
+                                    <section class='footer-section even'>
+                                       <nav>
+                                          <ul>
+                                             <li class='link odd first'><span><a href='http://www.mckesson.com/product-listing/'>Popular Products</a></span></li>
+                                             <li class='link odd'><a href='http://www.mckesson.com/providers/physician-practices/physician-office-medical-supplies/'>Medical Supplies</a></li>
+                                             <li class='link even'><a href='http://www.mckesson.com/health-plans/decision-management/decision-management-interqual/interqual-criteria/'>InterQual</a></li>
+                                             <li class='link odd'><a href='http://www.mckesson.com/bps/ehr-and-practice-management-software-solutions/'>Electronic Health Records</a></li>
+                                             <li class='link even'><a href='http://www.mckesson.com/providers/health-systems/electronic-health-record/paragon/'>Paragon</a></li>
+                                             <li class="link even"><a href="http://www.mckesson.com/providers/physician-practices/oncology-and-specialty-practice-solutions/practice-management-technologies/electronic-health-records-oncology/">iKnowMed</a></li>
+                                             <li class='link even'><a href='http://www.mckesson.com/bps/solutions/services/medical-billing-and-revenue-cycle-management/'>Revenue Cycle Management</a></li>
+                                             <li class='link odd'><a href='http://www.becomeahealthmart.com/'>Health Mart</a></li>
+                                             <li class="link odd"><a href="http://www.mckesson.com/pharmacies/independent-retail/purchasing-solutions/mckesson-onestop-generics/">OneStop Generics Purchasing</a></li>
+                                             <li class="link even"><a href="http://www.mckesson.com/pharmacies/hospital-and-health-system/inpatient/pharmaceutical-distribution-services/plasma-and-biologics-distribution/">Plasma and Biologics Distribution</a></li>
+                                          </ul>
+                                       </nav>
+                                    </section>
+                                    <section class='footer-section odd'>
+                                       <nav>
+                                          <ul>
+                                             <li class='link odd first'><span><a href='http://www.mckesson.com/customer-login/customer-login/'>Customer Ordering</a></span></li>
+                                             <li class='link even'><a href='https://mms.mckesson.com/index.mck'>Medical Supplies & Equipment</a></li>
+                                             <li class='link odd'><a href='https://connect.mckesson.com/portal/site/smo/template.LOGIN/?cid=mckcom'>Pharmaceuticals: Branded & Generic</a></li>
+                                             <li class='link even'><a href='https://mms.mckesson.com/index.mck'>Brand Products</a></li>
+                                             <li class='link odd'><a href='https://mscs.mckesson.com/CustomerCenter/MckessonWebStore.html'>Specialty and Oncology Drugs</a></li>
+                                             <li class='link even'><a href='http://www.mckesson.com/about-mckesson/our-company/businesses/mckesson-plasma-and-biologics/ordering/'>Plasma Products</a></li>
+                                             <li class='link odd last'><a href='https://simplymedical.com/'>Homecare Products for Consumers</a></li>
+                                          </ul>
+                                       </nav>
+                                       <nav>
+                                          <ul>
+                                             <li class='link odd first'><span><a href='http://investor.mckesson.com/'>Investors</a></span></li>
+                                             <li class='link even'><a href='http://investor.mckesson.com/press-releases/all/all/all'>Financial News</a></li>
+                                             <li class='link odd'><a href='http://investor.mckesson.com/events'>Events</a></li>
+                                             <li class='link even'><a href='http://investor.mckesson.com/reports'>Financial Information</a></li>
+                                             <li class='link odd'><a href='http://investor.mckesson.com/stock-information'>Stock Information</a></li>
+                                             <li class='link even'><a href='http://investor.mckesson.com/alerts '>Stockholder Services</a></li>
+                                             <li class='link odd last'><a href='http://www.mckesson.com/investors/corporate-governance/corporate-governance/'>Corporate Governance</a></li>
+                                          </ul>
+                                       </nav>
+                                    </section>
+                                    <section class='footer-section last even'>
+                                       <nav>
+                                          <ul>
+                                             <li class='link odd first'><span><a href='http://www.mckesson.com/about-mckesson/our-businesses/'>Our Businesses</a></span></li>
+                                             <li class='link even'><a href='http://www.mckesson.com/about-mckesson/our-company/businesses/mckesson-health-solutions/mckesson-health-solutions/'>Health Solutions</a></li>
+                                             <li class='link odd'><a href='http://www.mckesson.com/about-mckesson/our-company/businesses/mckesson-medical-surgical/about-mckesson-medical-surgical/'>Medical-Surgical</a></li>
+                                             <li class='link even'><a href='http://www.mckesson.com/about-mckesson/our-company/businesses/mckesson-pharmaceutical/mckesson-pharmaceutical/'>Pharmaceutical Distribution</a></li>
+                                             <li class='link odd'><a href='http://www.mckesson.com/about-mckesson/our-company/businesses/mckesson-pharmacy-systems/mckesson-pharmacy-systems/'>Pharmacy Systems</a></li>
+                                             <li class='link even'><a href='http://www.mckesson.com/about-mckesson/our-company/businesses/mckesson-specialty-health/mckesson-specialty-health/'>Specialty Health and The US Oncology Network </a></li>
+                                             <li class='link odd'><a href='http://www.mckesson.com/about-mckesson/our-company/businesses/mckesson-technology-solutions/mckesson-technology-solutions/'>Healthcare Technology Solutions</a></li>
+                                             <li class='link even'><a href='http://www.relayhealth.com/'>RelayHealth</a></li>
+                                          </ul>
+                                       </nav>
+                                       <nav>
+                                          <ul>
+                                             <li class='link odd first'><span><a href='http://www.mckesson.com/mckesson-international/mckesson-international/'>McKesson International</a></span></li>
+                                             <li class='link even'><a href='http://www.mckesson.com/mckesson-international/mckesson-canada/'>Canada</a></li>
+                                          </ul>
+                                       </nav>
+                                       <nav>
+                                          <ul>
+                                             <li class='link odd first'><span><a href='http://ventures.mckesson.com/'>McKesson Ventures</a></span></li>
+                                          </ul>
+                                       </nav>
+                                    </section>
+                                 </div>
+                              </div>
+                              <div class="footer-disc">
+                                 <div class="wrapper">
+                                    <div class="corp-logo">
+                                       <img id="ctl00_ctl00_Footer2_imgLogo" title="Business Care Connectivity" class="corp-logo" src="/sites/mckesson.investorhq.businesswire.com/themes/mckesson_2016_investorhq_three/client_files/img/corporate-logo.png" alt="Business Care Connectivity" />
+                                    </div>
+                                    <div class="disc">
+                                       <nav>
+                                          <ul class="cl">
+                                             <li><a href='http://www.mckesson.com/contact-us/overview/'>Contact Us</a></li>
+                                             <li><a href='http://www.mckesson.com/about-mckesson/privacy-notice-summary/ '>Privacy Notice</a></li>
+                                             <li><a href='http://www.mckesson.com/about-mckesson/disclaimer/'>Disclaimer</a></li>
+                                             <li><a href='http://www.mckesson.com/about-mckesson/patents/'>Patents</a></li>
+                                             <li><a href='http://www.mckesson.com/site-map/'>Site Map</a></li>
+                                          </ul>
+                                       </nav>
+                                       <p class="copyright">© <span id="bwcopyyear">2016</span><script type="text/javascript">copydate = new Date().getFullYear(); document.getElementById('bwcopyyear').innerHTML = copydate;</script> McKesson Corporation</p>
+                                       <p id="bw_tag">
+                                        <a href="http://services.businesswire.com/online-investor-centers" target="_blank" style="color:#666">Business Wire InvestorHQ℠</a>
+                                      </p>
+                                    </div>
+                                 </div>
+                              </div>
+                           </footer>
+                           <div class="to-top">
+                              <p>top<span class="up-arrow"></span></p>
+                           </div>
+                        </NOINDEX>
+                        <!--googleon: index-->
+                     </div>
+                  </div>
+               </div>
+               <nav class="st-menu st-effect-3" id="menu-3">
+                  <ul>
+                     <li><a href="http://www.mckesson.com/about-mckesson/who-we-are/"><span>About McKesson</span></a></li>
+                     <li><a href="http://investor.mckesson.com/"><span>Investors</span></a></li>
+                     <li><a href="https://careers.mckesson.com/"><span>Careers</span></a></li>
+                     <li><a href="http://www.mckesson.com/contact-us/overview/"><span>Contact Us</span></a></li>
+                     <li><a href="http://www.mckesson.com/customer-login/customer-login/"><span>Customer Login</span></a></li>
+                  </ul>
+                  <p class="close-nav"><span class="reverse-arrow"></span><span>close</span></p>
+               </nav>
+            </div>
+         </div>
+         <!-- No Script -->
+    <script>
+      window.__define = window.define;
+      window.__require = window.require;
+      window.define = undefined;
+      window.require = undefined;
+    </script>
+    
+    <script src='/sites/mckesson.investorhq.businesswire.com/themes/mckesson_2016_investorhq_three/client_files/js/min/mckesson.min-bw-fixed.js' type="text/javascript"></script>
+    <script src='/sites/mckesson.investorhq.businesswire.com/themes/mckesson_2016_investorhq_three/client_files/js/min/search.min.js' type="text/javascript"></script>
+    <script src='/sites/mckesson.investorhq.businesswire.com/themes/mckesson_2016_investorhq_three/client_files/js/adobe.target.targetcomplete.js' type="text/javascript"></script>
+    <script src='/sites/mckesson.investorhq.businesswire.com/themes/mckesson_2016_investorhq_three/client_files/js/adobe.mckesson_settings.min.js' type="text/javascript"></script>
+    <script type="text/javascript">
+
+      function getParameterByName(name) {
+        var url = window.location.href;
+        name = name.replace(/[\[\]]/g, "\\$&");
+        var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+            results = regex.exec(url);
+        if (!results) return null;
+        if (!results[2]) return '';
+        return decodeURIComponent(results[2].replace(/\+/g, " "));
+      }
+      mckessonjq(document).ready(function () {
+          var searchstring = getParameterByName("q");
+          document.getElementById('search-field').value = searchstring;                
+          mckessonjq("#search-field").TargetComplete(targetsettings);
+      });
+    </script>
+    <script>
+    window.define = window.__define;
+    window.require = window.__require;
+    window.__define = undefined;
+    window.__require = undefined;
+    </script>
+  <!-- DO NOT REMOVE -->
+    <script type="text/javascript" src="http://investor.mckesson.com/sites/mckesson.investorhq.businesswire.com/files/js/js_e713ca24bf73318b18e11358010966a4.js"></script>
+  <!-- END DO NOT REMOVE -->
+</body>
+</html>
